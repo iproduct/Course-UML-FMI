@@ -291,15 +291,15 @@
 <XPD:OBJ name="OwnedViews[7]" type="UMLUseCaseView" guid="klGpsQs9LE2wcWWvWCdduAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">480</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">60</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">118</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">456</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">64</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">156</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">eG2m+FMSEEWis7c+Q3Qr+AAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="JoAd7AB0hEeRHqAy4sVRCwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="WLK19cj5bEGTP/XqDUKPewAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">View Preview</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Preview Resource</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="gWm12dvHukS/JAKCJl0u6gAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -324,7 +324,7 @@
 <XPD:OBJ name="OwnedViews[8]" type="UMLExtendView" guid="KB0kU0NNfkKtSsojee3/OQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">480,88;395,97</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">456,93;395,98</XPD:ATTR>
 <XPD:REF name="Model">LJRxghEPx0SS/XCyAwoNlgAA</XPD:REF>
 <XPD:REF name="Head">qafS4wKIEkSRlHHBYU0fjAAA</XPD:REF>
 <XPD:REF name="Tail">klGpsQs9LE2wcWWvWCdduAAA</XPD:REF>
@@ -350,7 +350,7 @@
 <XPD:OBJ name="OwnedViews[9]" type="UMLExtendView" guid="dSPyn7vKkkWSXl6kmi5YFgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">498,104;411,152</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">492,108;411,152</XPD:ATTR>
 <XPD:REF name="Model">s2abHmoRnEi7mWeWBlc0BQAA</XPD:REF>
 <XPD:REF name="Head">gDnBe+RQX06Ekkhr1rtfBAAA</XPD:REF>
 <XPD:REF name="Tail">klGpsQs9LE2wcWWvWCdduAAA</XPD:REF>
@@ -1412,7 +1412,7 @@
 <XPD:REF name="Includes[0]">QgXKymmqBkqGXpjwdiH7RgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[6]" type="UMLUseCase" guid="eG2m+FMSEEWis7c+Q3Qr+AAA">
-<XPD:ATTR name="Name" type="string">View Preview</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Preview Resource</XPD:ATTR>
 <XPD:REF name="Namespace">pHCLS7X6wECceXLVU6UDqwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">klGpsQs9LE2wcWWvWCdduAAA</XPD:REF>
